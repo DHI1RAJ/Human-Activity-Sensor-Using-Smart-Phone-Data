@@ -58,10 +58,3 @@ You need to have installed following softwares and libraries in your machine bef
 * keras - Used for making deep learning models
 * hyperas - used for tuning hyper-parameters for deep learning models
 
-## Authors
-* Gaurav Sharma - Complete work  
-
-## Acknowledgments
-* Applied AI Course
-* https://github.com/maxpumperla/hyperas
-
